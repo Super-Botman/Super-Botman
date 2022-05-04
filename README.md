@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi, I'm a french dev !
 
-<!--
-**Super-Botman/Super-Botman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Me
 
-Here are some ideas to get you started:
+- 👨‍💻 Age: 14yo
+- 💻 My hobbies: coding and hacking
+- ⏳ My begin in the world of dev: 3 years
+- 🚀 My favorite technos and my favorite language: node.js and c++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Actually
+
+- 🔭 I’m currently working on a node.js API for a buying website and a little malware in c++
+- 🌱 I’m currently learning ethical hacking
+- 📫 How to reach me: on discord Botman#3086
+
