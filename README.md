@@ -13,3 +13,6 @@
 - 🌱 I’m currently learning ethical hacking
 - 📫 How to reach me: on discord Botman#3086
 
+## My stats
+
+[![Les Stats GitHub de Super-Botman](https://github-readme-stats.vercel.app/api?username=Super-Botman)](https://github.com/anuraghazra/github-readme-stats)
