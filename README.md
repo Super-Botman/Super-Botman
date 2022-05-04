@@ -15,4 +15,4 @@
 
 ## My stats
 
-[![Les Stats GitHub de Super-Botman](https://github-readme-stats.vercel.app/api?username=Super-Botman)](https://github.com/anuraghazra/github-readme-stats)
+[![Les Stats GitHub de Super-Botman](https://github-readme-stats.vercel.app/api?username=Super-Botman&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
