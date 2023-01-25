@@ -2,7 +2,7 @@
 
 ## Me
 
-- 👨‍💻 Age: 14yo
+- 👨‍💻 Age: 15yo
 - 💻 My hobbies: coding and hacking
 - ⏳ My begin in the world of dev: 3 years
 - 🚀 My favorite technos and my favorite language: node.js and c++
