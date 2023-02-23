@@ -14,6 +14,6 @@
 - 📫 How to reach me: on discord Botman#3086
 
 ## My stats
-![THM](https://tryhackme-badges.s3.amazonaws.com/Botmancol.png)
+![THM stats](https://tryhackme-badges.s3.amazonaws.com/Botmancol.png)
 
 [![Les Stats GitHub de Super-Botman](https://github-readme-stats.vercel.app/api?username=Super-Botman&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
