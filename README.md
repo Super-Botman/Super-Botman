@@ -1,5 +1,2 @@
 # Botman - 0xB0tm4n | CTF player & pwn enjoyer
-Hi ! I'm Botman a french ctf player in Hack'narchism and xXxpassword123xXx, I dev a little and pwn a lot !
-
-## My stats
-[![Super-Botman's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Super-Botman&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+I'm doing cool stuff like pwn and programming but mostly fun.
