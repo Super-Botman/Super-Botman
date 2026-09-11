@@ -1,5 +1,5 @@
 <br /><br /><br /><br />
 
-$${\color{red}\boldsymbol{≽\verb|^|•⩊•\verb|^|≼}}$$
+$${\color{#be68a5}\boldsymbol{≽\verb|^|•⩊•\verb|^|≼}}$$
 
 <br /><br /><br />
